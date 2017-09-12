@@ -4,3 +4,6 @@ This doc is a drop in component that will detect a press on a Font Awesome Icon 
 
 Font Awesome Picker:
 http://www.jqueryscript.net/other/Searchable-FontAwesome-Icon-Picker-jQuery-Simple-Iconpicker.html
+
+Template 10: Add editable tag to Row, remove all else from services.php
+Template 6:
